@@ -19,7 +19,7 @@ other details,such as in-depth source code analysis and multi-threaded concurren
 
 ### 1.Foundation
 
-- [Stories About const](./basic_content/const)
+- [Stories About const](.english/basic_content/const)
 - [Stories About static](./basic_content/static)
 - [Stories about this](./basic_content/this)
 - [Stories About inline](./basic_content/inline)
